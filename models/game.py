@@ -1,4 +1,4 @@
-from api_handler import ApiHandler
+from storage.api_handler import ApiHandler
 from models.player import Player
 from models.question import Question
 from storage.helper_functions import get_topic_id
